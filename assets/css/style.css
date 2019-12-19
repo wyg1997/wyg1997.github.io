@@ -1,3 +1,24 @@
+/* 目录样式 */
+#markdown:before {
+        content: "目录";
+        font-weight: bold;
+}
+/* /1* 悬浮目录 *1/ */
+/* ul#markdown-toc { */
+/* 	list-style: none; */
+/* 	position: fixed; */
+/* 	padding: 0px; */
+/* 	left: 10px; */
+/* 	bottom: 20px; */
+/* 	border-radius: 0.3em; */
+/* 	box-shadow: rgba(0,0,0,0.15) 0 1px 4px; */
+/* 	box-sizing: border-box; */
+/* 	border: #fff 0.5em solid; */
+/* 	background-color: white; */
+/* 	overflow-y: auto; */
+/* 	max-height: 600px; */
+/* } */
+
 html,body,ul,li,div,header,nav,main,footer{
     margin: 0;
     padding: 0;
