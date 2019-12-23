@@ -20,7 +20,7 @@ webtitle: 'porkbar.cn'
 bio: 'https://blog.csdn.net/wyg1997'
 about: true
 aboutyou: 'cold and code'
-portraits: '/assets/profile.jpeg' # your portraits image file path
+portraits: '/assets/profile.png' # your portraits image file path
 
 # SNS
 SNS: true
