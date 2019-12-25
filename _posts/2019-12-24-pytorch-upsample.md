@@ -2,7 +2,7 @@
 title: pytorch的interpolate函数
 layout: post
 date: '2019-12-24 14:05:21'
-tags: pytorch deep-learning upsample
+tags: pytorch deep-learning
 color: rgb(255,90,90)
 cover: "../assets/imgs/pytorch.png"
 subtitle: pytorch中的上下采样
