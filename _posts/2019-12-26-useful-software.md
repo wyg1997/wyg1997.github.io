@@ -4,7 +4,7 @@ layout: post
 date: '2019-12-26 19:04:00'
 tags: software
 color: rgb(154,153,255)
-cover: "../assets/imgs/win10.jpg"
+cover: "/assets/imgs/win10.jpg"
 subtitle: 实用、高效、炫酷的工具整理
 ---
 
