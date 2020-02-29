@@ -47,6 +47,7 @@ subtitle: 实用、高效、炫酷的工具整理
 | 树洞OCR | 跨平台的OCR小工具 | [链接](https://github.com/AnyListen/tools-ocr) |
 | ScreenToGif | Gif录屏工具 | [链接](https://github.com/NickeManarin/ScreenToGif) |
 | Captura | 录屏软件 | [链接](https://github.com/MathewSachin/Captura) |
+| asciinema | Linux&macOS录屏软件 | [链接](http://asciinema.org) |
 
 ### 快捷
 
