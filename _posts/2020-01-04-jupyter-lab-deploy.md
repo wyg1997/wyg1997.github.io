@@ -4,7 +4,7 @@ layout: post
 date: '2020-01-04 19:24:05'
 tags: jupyter
 color: rgb(255,90,90)
-cover: "/assets/imgs/jupyter.png"
+cover: "../assets/imgs/jupyter.png"
 subtitle: jupyterlab配置
 ---
 
