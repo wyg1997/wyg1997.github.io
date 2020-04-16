@@ -4,7 +4,7 @@ title: 'Conemu+MSYS2配置'
 date: 2020-04-16                                                                                                                                                                                                     
 author: wyg1997                                                                                                                                                                                                      
 color: rgb(255,210,32)                                                                                                                                                                                               
-cover: '../assets/imgs/conemu.jpg'                                                                                                                                                                                   
+cover: '/assets/imgs/conemu.jpg'                                                                                                                                                                                   
 
 tags: conemu msys2                                                                                                                                                                                                     
 ---
@@ -46,15 +46,15 @@ Windows环境下的终端实在是不太好用，后来发现了Conemu作为终�
 
 #### 隐藏不必要控件（按自己喜好）
 
-![1586936005809](../assets/imgs/conemu/1586936005809.png)
+![1586936005809](/assets/imgs/conemu/1586936005809.png)
 
 #### 注册到右键菜单
 
-![1586935700340](../assets/imgs/conemu/1586935700340.png)
+![1586935700340](/assets/imgs/conemu/1586935700340.png)
 
 #### 设置cmd默认启动Conemu
 
-![1586935735867](../assets/imgs/conemu/1586935735867.png)
+![1586935735867](/assets/imgs/conemu/1586935735867.png)
 
 #### 其它
 
@@ -70,7 +70,7 @@ Windows环境下的终端实在是不太好用，后来发现了Conemu作为终�
 
 首先在Conemu的`setting-Tasks`中刷新一下，应该就有`MSYS2`了。
 
-![1586941206457](../assets/imgs/conemu/1586941206457.png)
+![1586941206457](/assets/imgs/conemu/1586941206457.png)
 
 #### 配置启动参数
 
@@ -87,11 +87,11 @@ set CHERE_INVOKING=1 & set "PATH=%ConEmuDrive%\msys64\usr\bin;%PATH%" & %ConEmuB
 
 #### 设置为默认终端
 
-![1586944047459](../assets/imgs/conemu/1586944047459.png)
+![1586944047459](/assets/imgs/conemu/1586944047459.png)
 
 还有：
 
-![1586944074386](../assets/imgs/conemu/1586944074386.png)
+![1586944074386](/assets/imgs/conemu/1586944074386.png)
 
 现在从运行中执行`conemu64`或右键`Conemu Here`都是启动`MSYS2`啦。
 
@@ -137,7 +137,7 @@ set CHERE_INVOKING=1 & set "PATH=%ConEmuDrive%\msys64\usr\bin;%PATH%" & %ConEmuB
 
 - 更改默认终端（把`bash.exe`改成`zsh.exe`即可）
 
-  ![1586951411245](../assets/imgs/conemu/1586951411245.png)
+  ![1586951411245](/assets/imgs/conemu/1586951411245.png)
 
 - 然后复制下主题和配置
 
@@ -194,5 +194,5 @@ vim -c "PlugInstall" -c "q" -c "q"
 
 ## 效果
 
-![1587006352510](../assets/imgs/conemu/1587006352510.png)
+![1587006352510](/assets/imgs/conemu/1587006352510.png)
 
