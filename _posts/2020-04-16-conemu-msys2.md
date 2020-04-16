@@ -36,13 +36,13 @@ Windows环境下的终端实在是不太好用，后来发现了Conemu作为终�
 
 #### 语言
 
-![1586935084784](conemu.assets/1586935084784.png)
+![1586935084784](/assets/imgs/conemu/1586935084784.png)
 
 #### 字体
 
 这里建议使用powerline字体，显示效果更好，没有的可以去[下载链接]( https://github.com/powerline/fonts )下载后安装。
 
-![1586935180712](conemu.assets/1586935180712.png)
+![1586935180712](/assets/imgs/conemu/1586935180712.png)
 
 #### 隐藏不必要控件（按自己喜好）
 
@@ -115,7 +115,7 @@ set CHERE_INVOKING=1 & set "PATH=%ConEmuDrive%\msys64\usr\bin;%PATH%" & %ConEmuB
   Server = http://mirrors.ustc.edu.cn/msys2/mingw/x86_64
   ```
 
-- 编辑`/etc/pacman.d/mirrorlist.msys`，在开关添加：
+- 编辑`/etc/pacman.d/mirrorlist.msys`，在开头添加：
 
   ```txt
   Server = http://mirrors.ustc.edu.cn/msys2/msys/$arch
