@@ -55,3 +55,8 @@ subtitle: 实用、高效、炫酷的工具整理
 | :-: | :- | :- |
 | Quicker | 快捷使用各种操作，个人在用的有截图、OCR、快捷搜索等，还有各路大神贡献的其它脚本。如果使用可以用我的推荐码:`98826-3606` | [链接](https://www.getquicker.net/) |
 
+### 其它
+
+| 软件名 | 作用 | 官网或源码 |
+| :-: | :- | :- |
+| SpaceSniffer | Windows磁盘分析神器，可以把指定路径的文件体积大小直观的表现出来，方便清理大文件 | [链接](https://www.fosshub.com/SpaceSniffer.html) |
