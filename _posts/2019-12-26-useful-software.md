@@ -31,6 +31,7 @@ subtitle: 实用、高效、炫酷的工具整理
 | 有道云笔记 | 也是比较好用的笔记，可以多平台同步 | [链接](http://note.youdao.com/WAP/intro/) |
 | Typora | Markdown格式文件的编辑软件，非常好用 | [链接](https://www.typora.io) |
 | VScode | 微软的源代码编辑器，内置git，可以装各种插件 | [链接](https://code.visualstudio.com/) |
+| Pandoc | 文档格式转换工具，搭配`Typora`使用体验更好 | [链接](https://www.pandoc.org/installing.html) |
 
 ### 备忘提醒
 
