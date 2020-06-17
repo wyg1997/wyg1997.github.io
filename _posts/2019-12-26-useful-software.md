@@ -55,6 +55,7 @@ subtitle: 实用、高效、炫酷的工具整理
 | 软件名 | 作用 | 官网或源码 |
 | :-: | :- | :- |
 | Quicker | 快捷使用各种操作，个人在用的有截图、OCR、快捷搜索等，还有各路大神贡献的其它脚本。如果使用可以用我的推荐码:`98826-3606` | [链接](https://www.getquicker.net/) |
+| PowerToys | Windows官方的效率工具，包括app快捷启动(类似macos的聚焦)、快速批量重命名、图片快速Resize等工具 | [源码](https://github.com/microsoft/PowerToys) |
 
 ### 其它
 
