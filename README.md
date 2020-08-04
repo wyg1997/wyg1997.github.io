@@ -1,6 +1,8 @@
 ## HardCandy-Jekyll
 
 
+**Fork form [github/xukimseven](https://github.com/xukimseven/HardCandy-Jekyll)**
+
 
 ### Preview
 
