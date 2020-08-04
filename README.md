@@ -6,8 +6,6 @@
 
 ### Preview
 
-[在线预览 view demo →](http://xseven.me/)
-
 ![1](/screenshot/1.png)
 
 ![2](/screenshot/2.png)
