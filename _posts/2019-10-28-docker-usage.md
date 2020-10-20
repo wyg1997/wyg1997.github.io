@@ -174,6 +174,11 @@ docker run -it --dns=114.114.114.114 --name USER_MISSION IMAGE_NAME/IMAGE_ID /bi
 docker run -it --shm-size=8G IMAGE_NAME/IMAGE_ID /bin/bash
 ```
 
+##### 添加gdb调试权限
+```sh
+docker run -it --cap-add=SYS_PTRACE --name USER_MISSION IMAGE_NAME/IMAGE_ID /bin/bash
+```
+
 ---
 
 ### 查看容器
